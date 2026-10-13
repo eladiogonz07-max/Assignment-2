@@ -1,5 +1,6 @@
 # Assignment-2
 
-#### Collaborators
+## Collaborators
+- Eladio Gonzalez
 
-#### Screenshots
+## Screenshots
